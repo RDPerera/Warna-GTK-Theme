@@ -1,9 +1,15 @@
-![main]('Screen Shots'/A.png)
-
 # Warna-GTK-Theme
 වර්ණ is a theme for GNOME desktops which is like a combination of Sweet and WhiteSur GTK themes
 
+![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/A%20.png)
 # Installation is easy!
+## Install Tweak Tool
+Tweaks is designed for GNOME Shell but can be used in other desktops. A few features will be missing when Tweaks is run on a different desktop
+
+The first step is to make sure that we have the universe repository enabled on our Ubuntu system
+```sudo add-apt-repository universe```
+Once ready, execute the following command to install Tweak Tool on your Ubuntu system
+```sudo apt install gnome-tweak-tool```
 ## Use the stable package
 You can choose the compressed file compiled in stable version and unzip it to the theme folder ~/.themes under the user folder.
 
@@ -12,7 +18,7 @@ You can run ./install.sh to install the default WhiteSur GTK theme pack which in
 
 # Other recommended stuffs
 ## Papirus-Icon-Theme
-![main]('Screen Shots'/O1.png)
+![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/O1.png?raw=true)
 
 **You can install Papirus from our official PPA:(For UBUNTU DERIVATIONS)**
 ```
@@ -25,12 +31,13 @@ or download .deb packages from here.
 **OFFICIAL**: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
 ## Whitesur Wallpaper
-![main]('Screen Shots'/O2.png)
+![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/O2.png?raw=true)
 **4K** : https://github.com/vinceliuice/WhiteSur-kde/blob/master/wallpaper/WhiteSur_4k.png?raw=true
+
 **HD** : https://github.com/vinceliuice/WhiteSur-kde/blob/master/wallpaper/WhiteSur.png?raw=true
 
 ## Blyr - Blur Effect to GNOME Shell UI elements.
-![main]('Screen Shots'/O3.png)
+![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/Q3.png?raw=true)
 **Manual Instalation**
 ```
 git clone https://github.com/yozoon/gnome-shell-extension-blyr.git
