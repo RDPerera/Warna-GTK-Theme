@@ -18,7 +18,7 @@ sudo apt install gnome-tweak-tool
 You can choose the compressed file compiled in stable version and unzip it to the theme folder ~/.themes under the user folder.
 
 ## Compile from source
-You can run ./install.sh to install the default WhiteSur GTK theme pack which includes GNOME Shell (Pantheon), Cinnamon, XFWM (XFCE), Metacity, and Plank themes.
+You can run ./install.sh to install the Warna theme pack which includes GNOME Shell (Pantheon), Cinnamon, XFWM (XFCE), Metacity, and Plank themes.
 
 # Other recommended stuffs
 ## Papirus-Icon-Theme
