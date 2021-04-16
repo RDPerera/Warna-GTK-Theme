@@ -15,7 +15,7 @@ Once ready, execute the following command to install Tweak Tool on your Ubuntu s
 sudo apt install gnome-tweak-tool
 ```
 ## Use the stable package
-You can choose the compressed file compiled in stable version and unzip it to the theme folder ~/.themes under the user folder.
+You can choose the compressed file compiled in stable version("Warna" Folder) and unzip it to the theme folder ~/.themes under the user folder.
 
 
 # Other recommended stuffs
