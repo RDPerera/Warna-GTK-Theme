@@ -1,4 +1,4 @@
-![main]('Screen Shots'/A.png)
+![main]('/Screen Shots'/A.png)
 
 # Warna-GTK-Theme
 වර්ණ is a theme for GNOME desktops which is like a combination of Sweet and WhiteSur GTK themes
