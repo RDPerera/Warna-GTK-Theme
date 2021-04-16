@@ -1,8 +1,6 @@
-![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/A%20.png)
-
 # Warna-GTK-Theme
 වර්ණ is a theme for GNOME desktops which is like a combination of Sweet and WhiteSur GTK themes
-
+![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/A%20.png)
 # Installation is easy!
 ## Use the stable package
 You can choose the compressed file compiled in stable version and unzip it to the theme folder ~/.themes under the user folder.
@@ -27,6 +25,7 @@ or download .deb packages from here.
 ## Whitesur Wallpaper
 ![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/O2.png?raw=true)
 **4K** : https://github.com/vinceliuice/WhiteSur-kde/blob/master/wallpaper/WhiteSur_4k.png?raw=true
+
 **HD** : https://github.com/vinceliuice/WhiteSur-kde/blob/master/wallpaper/WhiteSur.png?raw=true
 
 ## Blyr - Blur Effect to GNOME Shell UI elements.
