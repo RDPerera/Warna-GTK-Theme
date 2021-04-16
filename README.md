@@ -1,5 +1,5 @@
 # Warna-GTK-Theme
-වර්ණ is a theme for GNOME desktops which is like a combination of Sweet and WhiteSur GTK themes
+වර්ණ is a theme for GNOME desktops which is a combination of Sweet and WhiteSur GTK themes
 
 ![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/A.png?raw=true)
 # Installation is easy!
