@@ -1,7 +1,15 @@
 # Warna-GTK-Theme
 වර්ණ is a theme for GNOME desktops which is like a combination of Sweet and WhiteSur GTK themes
+
 ![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/A%20.png)
 # Installation is easy!
+## Install Tweak Tool
+Tweaks is designed for GNOME Shell but can be used in other desktops. A few features will be missing when Tweaks is run on a different desktop
+
+The first step is to make sure that we have the universe repository enabled on our Ubuntu system
+```sudo add-apt-repository universe```
+Once ready, execute the following command to install Tweak Tool on your Ubuntu system
+```sudo apt install gnome-tweak-tool```
 ## Use the stable package
 You can choose the compressed file compiled in stable version and unzip it to the theme folder ~/.themes under the user folder.
 
