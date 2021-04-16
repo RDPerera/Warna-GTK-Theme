@@ -12,7 +12,7 @@ You can run ./install.sh to install the default WhiteSur GTK theme pack which in
 
 # Other recommended stuffs
 ## Papirus-Icon-Theme
-![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/O%10.png)
+![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/O1.png?raw=true)
 
 **You can install Papirus from our official PPA:(For UBUNTU DERIVATIONS)**
 ```
@@ -25,12 +25,12 @@ or download .deb packages from here.
 **OFFICIAL**: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
 ## Whitesur Wallpaper
-![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/O%20.png)
+![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/O2.png?raw=true)
 **4K** : https://github.com/vinceliuice/WhiteSur-kde/blob/master/wallpaper/WhiteSur_4k.png?raw=true
 **HD** : https://github.com/vinceliuice/WhiteSur-kde/blob/master/wallpaper/WhiteSur.png?raw=true
 
 ## Blyr - Blur Effect to GNOME Shell UI elements.
-![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots//O%30.png)
+![main](https://github.com/RDPerera/Warna-GTK-Theme/blob/main/Screen%20Shots/Q3.png?raw=true)
 **Manual Instalation**
 ```
 git clone https://github.com/yozoon/gnome-shell-extension-blyr.git
